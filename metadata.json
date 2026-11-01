@@ -1,0 +1,6 @@
+{
+  "name": "Puro - Digital game",
+  "description": "Battle Arena Pro: Action-packed online & offline multiplayer battle arena game featuring real-time 1v1 and 2v2 combat, smart bots, room codes, coin wallet, shop, and tournaments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
